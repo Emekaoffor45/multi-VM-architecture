@@ -1,4 +1,4 @@
-his is a practice project where I moved a basic web template from a single-machine setup to a two-tier architecture. Instead of everything living in one place, the website and the database are on separate servers, communicating over a private network.
+This is a practice project where I moved a basic web template from a single-machine setup to a two-tier architecture. Instead of everything living in one place, the website and the database are on separate servers, communicating over a private network.
 
 The Setup
 Web Server (Ubuntu): Running Apache and the frontend files. I pointed it to the DB server using a custom PHP bridge.
